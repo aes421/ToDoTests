@@ -1,4 +1,4 @@
-//TODO Test 2
+// TODO Test 2
 var test = true;
 var test = true;
 var test = true;
@@ -26,7 +26,7 @@ var test = true;
 var test = true;
 var test = true;
 var test = true;
-//TODO Another one!
+// TODO Another one!
 var test = true;
 var test = true;
 var test = true;
